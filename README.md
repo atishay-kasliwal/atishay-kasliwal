@@ -23,6 +23,10 @@ I like systems that do something useful with messy information: remember a workd
 
 Right now I am building **[Atriveo](https://www.atriveo.com)**, a set of focused products for job search, working memory, and personal performance. I hold an **M.S. in Data Science from Stony Brook University (2026)** and previously built production software at **Bounteous**, **Wake Forest CAIR**, and **Stony Brook University**.
 
+## Away from the screen
+
+I keep coming back to **photography**. The older version of my site had a 42-image gallery, and I want to bring a smaller, better-edited version of it back. With a camera in hand, I notice things I would normally walk past, like light across a building or a pattern in the street. Sometimes it is a quiet moment between people. That habit has sharpened my eye for spacing and composition when I design interfaces.
+
 ## Selected work
 
 <table>
