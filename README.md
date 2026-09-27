@@ -74,6 +74,13 @@ I keep coming back to **photography**. The older version of my site had a 42-ima
   </tr>
 </table>
 
+## More open source
+
+- **[Atriveo Reel](https://github.com/atishay-kasliwal/atriveo-reel)** turns two source clips into a vertical comparison video. The Next.js app queues durable render jobs, while FFmpeg handles the video and Remotion handles text.
+- **[Kaggriculture](https://github.com/atishay-kasliwal/kaggriculture)** is my game-agent research desk for a competitive farming economy, with deterministic simulation, planner search, opponent models, replay analysis, and experiment tracking.
+- **[Bayesian Marketing Mix](https://github.com/atishay-kasliwal/bayesian-marketing-mix-model)** measures channel impact across 156 weeks, then tests budget changes with holdout validation and 1,000-run uncertainty simulations.
+- **[InsureRaft](https://github.com/atishay-kasliwal/InsureRaft)** is a C++ insurance event log built on NuRaft, with quorum writes, idempotent commands, snapshots, and automatic leader election.
+
 ## Work
 
 - **Software Engineer, Research · Stony Brook University** — event-driven research infrastructure, production AI services, retrieval pipelines, and real-time analytical interfaces.
