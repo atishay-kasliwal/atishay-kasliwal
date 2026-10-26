@@ -54,20 +54,6 @@ I keep coming back to **photography**. The older version of my site had a 42-ima
       <p><code>SvelteKit</code> <code>Cloudflare Workers</code> <code>Durable Objects</code> <code>WebSockets</code> · <a href="https://github.com/atishay-kasliwal/Chaal.tech">Code</a></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/atishay-kasliwal/insurance-microservices-platform"><img src="./assets/projects/insurance-platform.webp" alt="Insurance microservices platform" width="100%" /></a>
-      <h3><a href="https://github.com/atishay-kasliwal/insurance-microservices-platform">Insurance Platform</a></h3>
-      <p>An event-driven insurance platform built around CQRS, event sourcing, Kafka, Elasticsearch, and independently deployable services.</p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>Kafka</code> <code>Kubernetes</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/atishay-kasliwal/fedtalk-openai-analysis-main"><img src="./assets/projects/fedtalk.webp" alt="FedTalk research project" width="100%" /></a>
-      <h3><a href="https://github.com/atishay-kasliwal/fedtalk-openai-analysis-main">FedTalk</a></h3>
-      <p>Research on whether an LLM can anticipate short-horizon market reactions to FOMC statements using transcripts, retrieved news, and minute-level prices.</p>
-      <p><code>Python</code> <code>GPT-4o</code> <code>Whisper</code> <code>Pinecone</code></p>
-    </td>
-  </tr>
 </table>
 
 ## More open source
