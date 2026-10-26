@@ -52,10 +52,10 @@ I keep coming back to **photography**. The older version of my site had a 42-ima
       <p><code>TypeScript</code> <code>Postgres</code> <code>SwiftUI</code> <code>XGBoost</code> · <a href="https://github.com/atishay-kasliwal/cortex-bio">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://application.atriveo.com"><img src="./assets/projects/atriveo-job-search.webp" alt="Atriveo Job Search pipeline" width="100%" /></a>
-      <h3><a href="https://application.atriveo.com">Atriveo Job Search</a></h3>
-      <p>A self-hosted pipeline that finds roles, scores fit, and uses a local model to tailor one-page résumés from verified experience.</p>
-      <p><code>Python</code> <code>TypeScript</code> <code>Local LLM</code> · <a href="https://github.com/atishay-kasliwal/Atriveo-JD-Extractor">Code</a></p>
+      <a href="https://chaal.tech"><img src="./assets/projects/chaal.gif" alt="Chaal.tech gameplay preview" width="100%" /></a>
+      <h3><a href="https://chaal.tech">Chaal.tech</a></h3>
+      <p>A multiplayer card room for Teen Patti, Poker, Blackjack, and Rummy. Create a room, share the link, and play with friends without signing up.</p>
+      <p><code>SvelteKit</code> <code>Cloudflare Workers</code> <code>Durable Objects</code> <code>WebSockets</code> · <a href="https://github.com/atishay-kasliwal/teenpatti">Code</a></p>
     </td>
   </tr>
   <tr>
