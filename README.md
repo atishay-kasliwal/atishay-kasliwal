@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.webp" alt="An abstract map of connected software systems, data layers, and a violet signal moving through them" width="100%" />
-</p>
-
 <h1 align="center">Atishay Kasliwal</h1>
 
 <p align="center">
