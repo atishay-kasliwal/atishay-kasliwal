@@ -28,7 +28,7 @@ I keep coming back to **photography**. The older version of my site had a 42-ima
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tracker.atriveo.com"><img src="./assets/projects/atriveo-tracker.webp" alt="Atriveo Tracker interface" width="100%" /></a>
+      <a href="https://tracker.atriveo.com"><img src="./assets/projects/atriveo-tracker.gif" alt="Atriveo Tracker interface" width="100%" /></a>
       <h3><a href="https://tracker.atriveo.com">Atriveo Tracker</a></h3>
       <p>A Chrome extension and dashboard that captures job applications from 60 job sites, then tracks referrals, assessments, notes, and follow-ups.</p>
       <p><code>React</code> <code>Hono</code> <code>Postgres</code> <code>Cloudflare</code> · <a href="https://github.com/atishay-kasliwal/Atriveo">Code</a></p>
