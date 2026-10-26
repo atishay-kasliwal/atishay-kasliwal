@@ -72,13 +72,6 @@ I keep coming back to **photography**. The older version of my site had a 42-ima
 | **AI & data** | PyTorch, LangChain, Pinecone, PostgreSQL, MongoDB, Kafka, Airflow |
 | **Infrastructure** | AWS, GCP, Cloudflare, Docker, Kubernetes, Terraform, CI/CD |
 
-## What I optimize for
-
-- **Evidence over theatre.** Claims should resolve to a working product, a repository, or a measured result.
-- **Privacy by architecture.** Personal data stays local when the product permits it; published views expose only what they need.
-- **Boring reliability.** Idempotency, migrations, observability, explicit failure modes, and small operational surfaces.
-- **Interfaces that explain the system.** The user should be able to understand why the software reached an answer.
-
 <p align="center">
   Open to full-time software engineering and AI/ML roles in the United States.<br />
   <a href="mailto:katishay@gmail.com">katishay@gmail.com</a>
