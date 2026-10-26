@@ -56,13 +56,6 @@ I keep coming back to **photography**. The older version of my site had a 42-ima
   </tr>
 </table>
 
-## Work
-
-- **Software Engineer, Research · Stony Brook University** — event-driven research infrastructure, production AI services, retrieval pipelines, and real-time analytical interfaces.
-- **Artificial Intelligence Engineer · Wake Forest CAIR** — cloud model serving and medical-imaging pipelines across more than 50,000 scans and 10 TB of data.
-- **Senior Software Engineer · Bounteous** — 20+ production microservices across fintech, telecom, and commerce, supporting more than 100,000 monthly users.
-- **Software Engineer Intern · Shriffle** — billing services and operations dashboards handling more than 10,000 daily transactions.
-
 ## Toolkit
 
 | | |
