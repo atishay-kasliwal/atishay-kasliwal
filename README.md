@@ -55,7 +55,7 @@ I keep coming back to **photography**. The older version of my site had a 42-ima
       <a href="https://chaal.tech"><img src="./assets/projects/chaal.gif" alt="Chaal.tech gameplay preview" width="100%" /></a>
       <h3><a href="https://chaal.tech">Chaal.tech</a></h3>
       <p>A multiplayer card room for Teen Patti, Poker, Blackjack, and Rummy. Create a room, share the link, and play with friends without signing up.</p>
-      <p><code>SvelteKit</code> <code>Cloudflare Workers</code> <code>Durable Objects</code> <code>WebSockets</code> · <a href="https://github.com/atishay-kasliwal/teenpatti">Code</a></p>
+      <p><code>SvelteKit</code> <code>Cloudflare Workers</code> <code>Durable Objects</code> <code>WebSockets</code> · <a href="https://github.com/atishay-kasliwal/Chaal.tech">Code</a></p>
     </td>
   </tr>
   <tr>
