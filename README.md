@@ -13,6 +13,11 @@
   <a href="https://atishaykasliwal.com/Atishay-Kasliwal-Resume.pdf">Résumé</a>
 </p>
 
+<p align="center">
+  <a href="https://vimeo.com/1241118395"><img src="./assets/intro.gif" alt="Atishay Kasliwal: introduction video" width="720" /></a>
+  <br /><sub>A one-minute intro. Click to watch the full video.</sub>
+</p>
+
 ---
 
 I like systems that do something useful with messy information: remember a workday, explain a readiness score, follow a job application, or find a signal in a Federal Reserve statement. I work from data model and infrastructure through the final interface, with a bias toward measurable behavior and software that can be operated after launch.
