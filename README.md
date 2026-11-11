@@ -26,13 +26,16 @@ Right now I am building **[Atriveo](https://www.atriveo.com)**, a set of focused
 
 ## Open source
 
-Most of my recent work outside Atriveo has gone into infrastructure projects run by Intuit, Red Hat and Mezmo. Merged so far:
+Most of my recent work outside Atriveo has gone into infrastructure projects run by NVIDIA, Intuit, Red Hat and Mezmo: 33 merged pull requests across 11 repositories so far. Highlights:
 
+- **NVIDIA · [NVKR](https://github.com/dsx-ai-factory/nvkr)**, which turns a component catalog into verifiable build and release identities for the NVIDIA Kubernetes Engine. I added four CLI features: `catalog show` explains one component ([#453](https://github.com/dsx-ai-factory/nvkr/pull/453)), `run list` lists recorded local runs ([#460](https://github.com/dsx-ai-factory/nvkr/pull/460)), `release browse` filters by kind and platform ([#469](https://github.com/dsx-ai-factory/nvkr/pull/469)), and `definition init` starts a new Definition from existing catalog tools ([#470](https://github.com/dsx-ai-factory/nvkr/pull/470)).
 - **Intuit · [Numaflow](https://github.com/numaproj/numaflow)**, stream processing on Kubernetes. The controller and webhook now refuse a MonoVertex whose minimum replicas are above its maximum ([#3767](https://github.com/numaproj/numaflow/pull/3767)). I also added side input server tests to the Rust SDK ([numaflow-rs#191](https://github.com/numaproj/numaflow-rs/pull/191)) and cleaned up four docs and SDK examples.
+- **[Kiali](https://github.com/kiali/kiali)**, the Istio service mesh console. Reads from a remote cluster's cache now time out instead of hanging forever, so Kiali recovers once a cluster that lost access gets it back ([#10514](https://github.com/kiali/kiali/pull/10514)).
 - **Red Hat · [Keycloak](https://github.com/keycloak/keycloak)**: the admin console's masthead toggle on narrow screens has an accessible name now ([#54780](https://github.com/keycloak/keycloak/pull/54780)).
 - **Red Hat · [Cockpit](https://github.com/cockpit-project/cockpit)**: the terminal scrollbar and selected text show up in every theme again ([#23897](https://github.com/cockpit-project/cockpit/pull/23897), [#23910](https://github.com/cockpit-project/cockpit/pull/23910)).
-- **Red Hat · [mapt](https://github.com/redhat-developer/mapt)**: fixed a nil context in spot instance setup ([#956](https://github.com/redhat-developer/mapt/pull/956)).
-- **Mezmo · [AURA](https://github.com/mezmo/aura)**, a Rust agent runtime. Six fixes, mostly in orchestration and tool filtering, plus human-in-the-loop gating, event parsing and CI.
+- **Red Hat · [mapt](https://github.com/redhat-developer/mapt)**: four fixes, including password aging that locked users out of SSH on IBM Cloud ([#958](https://github.com/redhat-developer/mapt/pull/958)) and a nil context in spot instance setup ([#956](https://github.com/redhat-developer/mapt/pull/956)).
+- **Mezmo · [AURA](https://github.com/mezmo/aura)**, a Rust agent runtime. Nine fixes, mostly in orchestration and event parsing, plus tool filtering, human-in-the-loop gating and CI.
+- **[Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager)**: three Linux and macOS fixes, including using the system's yt-dlp ([#477](https://github.com/anefzaoui/misterdownloadmanager/pull/477)).
 - **[PR-Agent](https://github.com/The-PR-Agent/pr-agent)**: a test that pins down which config keys a PR comment is allowed to override ([#4706](https://github.com/The-PR-Agent/pr-agent/pull/4706)).
 
 [All merged pull requests →](https://github.com/pulls?q=is%3Apr+author%3Aatishay-kasliwal+is%3Amerged+-user%3Aatishay-kasliwal)
