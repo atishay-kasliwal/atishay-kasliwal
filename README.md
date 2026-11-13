@@ -26,7 +26,7 @@ Right now I am building **[Atriveo](https://www.atriveo.com)**, a set of focused
 
 ## Open source
 
-**40 merged pull requests across 14 repositories**, mostly in infrastructure run by NVIDIA, Red Hat, Intuit and Mezmo.
+**42 merged pull requests across 14 repositories**, mostly in infrastructure run by NVIDIA, Red Hat, Intuit and Mezmo.
 
 | | Project | What I did |
 |:-:|---|---|
@@ -36,9 +36,9 @@ Right now I am building **[Atriveo](https://www.atriveo.com)**, a set of focused
 | <img src="https://github.com/cockpit-project.png?size=128" width="44" alt="Cockpit" /> | **[Cockpit](https://github.com/cockpit-project/cockpit)**<br /><sub>Red Hat · ★ 15.4k</sub> | The terminal scrollbar and selected text show up in every theme again |
 | <img src="https://raw.githubusercontent.com/anefzaoui/misterdownloadmanager/main/website/assets/logo-640.png" width="44" alt="Mister Download Manager" /> | **[Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager)**<br /><sub>★ 7.8k</sub> | Three Linux and macOS fixes, including using the system's yt-dlp |
 | <img src="https://github.com/kiali.png?size=128" width="44" alt="Kiali" /> | **[Kiali](https://github.com/kiali/kiali)**<br /><sub>Istio service mesh console · ★ 3.6k</sub> | Remote cluster cache reads time out instead of hanging, so Kiali recovers once access returns |
-| <img src="https://github.com/numaproj.png?size=128" width="44" alt="Numaflow" /> | **[Numaflow](https://github.com/numaproj/numaflow)**<br /><sub>Intuit · ★ 2.8k</sub> | The controller and webhook refuse a MonoVertex whose minimum replicas exceed its maximum, plus Rust SDK side input tests, a Python SDK example fix and docs |
+| <img src="https://github.com/numaproj.png?size=128" width="44" alt="Numaflow" /> | **[Numaflow](https://github.com/numaproj/numaflow)**<br /><sub>Intuit · ★ 2.8k</sub> | Per-edge watermarks as a pipeline daemon metric, and the controller and webhook refuse a MonoVertex whose minimum replicas exceed its maximum, plus SDK tests, examples and docs |
 | <img src="https://github.com/mezmo.png?size=128" width="44" alt="Mezmo" /> | **[AURA](https://github.com/mezmo/aura)**<br /><sub>Mezmo · Rust agent runtime</sub> | Eleven fixes in orchestration, event parsing, tool filtering, human-in-the-loop gating, result storage and CI |
-| <img src="https://github.com/redhat-developer.png?size=128" width="44" alt="Red Hat" /> | **[mapt](https://github.com/redhat-developer/mapt)**<br /><sub>Red Hat</sub> | Four fixes, including one that locked users out of SSH on IBM Cloud |
+| <img src="https://github.com/redhat-developer.png?size=128" width="44" alt="Red Hat" /> | **[mapt](https://github.com/redhat-developer/mapt)**<br /><sub>Red Hat</sub> | Five fixes, including one that locked users out of SSH on IBM Cloud |
 
 [All merged pull requests →](https://github.com/pulls?q=is%3Apr+author%3Aatishay-kasliwal+is%3Amerged+-user%3Aatishay-kasliwal)
 
